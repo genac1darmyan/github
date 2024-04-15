@@ -44,3 +44,4 @@ git log --oneline --graph
 git branch -d <branch_name>
 ```
 Основыне команды для git 
+git branch
