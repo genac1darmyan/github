@@ -43,5 +43,3 @@ git log --oneline --graph
 ```sh 
 git branch -d <branch_name>
 ```
-
-анал этот хорошо 
