@@ -44,3 +44,4 @@ git log --oneline --graph
 git branch -d <branch_name>
 ```
 
+анал этот хорошо 
