@@ -39,6 +39,8 @@ git merge <name_branch>
 ```sh
 git log --oneline --graph
 ```
+123 
+
 Удаление ветки.
 ```sh 
 git branch -d <branch_name>
